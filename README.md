@@ -132,4 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to adjust the content and add screenshots as needed for your project!
 
-Author: Ivo Pereira
+Author: https://ivocreates.site
